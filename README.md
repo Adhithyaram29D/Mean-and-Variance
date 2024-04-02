@@ -1,4 +1,5 @@
-#  Ex1 Mean and variance of a discrete  distribution
+# Ex1-Mean and variance of a discrete  distribution
+# Date:
 # Aim : 
 To find mean and variance of arrival of objects from the feeder using probability distribution
 # Software required :  
